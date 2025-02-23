@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🧐   Interested in Cloud Infra and SaaS products.
+* 🧐   Interested in Cloud Infra and DevOps.
 * 🎓   [Master of Science in Security and Cloud Computing](https://www.secclo.eu/) at Aalto University and KTH.
-* 🌱   I’m currently working on [Memory Infra for LLM applications](https://memobase.io/).
 * ⛵   Encouraging people for open source collaborations.
 * 📄   Know about my experiences on my [resume](https://jinjia.jsisu.com).
 * 📫   How to reach me: email me at `jinjia@jsisu.com`.
